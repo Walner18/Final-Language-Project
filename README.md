@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/c502b76f-2aff-4338-8e4c-7860f9c582d2)
+
 # Welcome to my project.
 
 ## Pipeline with Airflow, dbt, and Snowflake-
@@ -8,7 +9,9 @@
 
 
 ## Project Description
-This project involves building a data pipeline using *Apache Airflow, **dbt, and **Snowflake*, based on the Quick Lab provided by Snowflake. The pipeline will extract, transform, and load (ETL) data into a cloud-based data warehouse while following collaboration best practices using GitHub.
+This project focuses on building a data pipeline leveraging Apache Airflow, dbt, and Snowflake, following the Quick Lab provided by Snowflake. The pipeline will perform extract, transform, and load (ETL) operations to manage data in a cloud-based data warehouse, adhering to collaboration best practices through GitHub.
+
+---
 
 ## Objectives
 - Automate data workflows using *Apache Airflow*.
@@ -28,23 +31,6 @@ To complete this project, you will need:
 - A *GitHub account*: For project collaboration and code management.
 
 ---
-
-## Pipeline Overview
-This project follows the ELT (Extract, Load, Transform) approach:
-1. *Extract*: Simulate or use real data sources to extract raw data.
-2. *Load*: Import the extracted data into Snowflake.
-3. *Transform*: Process and organize the data using dbt.
-4. *Orchestrate*: Use Airflow to automate and manage the workflow.
-5. *Validate*: Test the pipeline's functionality and ensure data quality.
-
----
-
-
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
 
 
 ### Resources:
