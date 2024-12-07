@@ -2,11 +2,8 @@
 
 # Welcome to my project.
 
-## Pipeline with Airflow, dbt, and Snowflake-
-
-
-## Link del video explicando:
-
+## Explainer Video:
+https://miucateciedu-my.sharepoint.com/:f:/g/personal/20210252_miucateci_edu_do/Etk1emcVNw5BtcgmzHr7mFEBVJcLbt1C_e2UrNKTgwDG_g?email=20210252%40miucateci.edu.do&e=r0NOnh
 
 ## Project Description
 This project focuses on building a data pipeline leveraging Apache Airflow, dbt, and Snowflake, following the Quick Lab provided by Snowflake. The pipeline will perform extract, transform, and load (ETL) operations to manage data in a cloud-based data warehouse, adhering to collaboration best practices through GitHub.
@@ -39,3 +36,6 @@ To complete this project, you will need:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+  ## Autor:
+  Waner Comprès Holguìn. 2021-0252
