@@ -1,12 +1,10 @@
-# Final Project: Pipeline with Airflow, dbt, and Snowflake
+![image](https://github.com/user-attachments/assets/c502b76f-2aff-4338-8e4c-7860f9c582d2) # Welcome to my project.
 
-##     ---Students---
-# Ismanol Ramírez 2020-0098
-# Ricky De La Cruz 2018-1405
-# Jhonatan Hernandez 2022-0023
+## Final Project: Pipeline with Airflow, dbt, and Snowflake-
+
 
 ## Link del video explicando:
-https://drive.google.com/file/d/1QjykweCzlHyBW3N5vvC_0eJ6WGWgWSD9/view?usp=drive_link
+
 
 ## Project Description
 This project involves building a data pipeline using *Apache Airflow, **dbt, and **Snowflake*, based on the Quick Lab provided by Snowflake. The pipeline will extract, transform, and load (ETL) data into a cloud-based data warehouse while following collaboration best practices using GitHub.
