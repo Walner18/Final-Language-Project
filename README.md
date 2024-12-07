@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/c502b76f-2aff-4338-8e4c-7860f9c582d2) # Welcome to my project.
+![image](https://github.com/user-attachments/assets/c502b76f-2aff-4338-8e4c-7860f9c582d2)
+# Welcome to my project.
 
-## Final Project: Pipeline with Airflow, dbt, and Snowflake-
+## Pipeline with Airflow, dbt, and Snowflake-
 
 
 ## Link del video explicando:
